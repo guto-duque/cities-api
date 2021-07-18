@@ -1,5 +1,8 @@
 # Cities API
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/guto-duque/cities-api/blob/main/LICENSE)
+
+
 ## Requirements
 
 * Linux
